@@ -1,0 +1,2 @@
+# Bookshelf API
+Final project for *Belajar Membuat Aplikasi Back-End untuk Pemula* (Learn to Create Back-End Applications for Beginners) class held by Dicoding Indonesia. This class is available [here](https://www.dicoding.com/academies/261).
